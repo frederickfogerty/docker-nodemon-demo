@@ -1,0 +1,14 @@
+{
+  "name": "docker-volume-demo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docker:dev": "nodemon -L src/index.js"
+  },
+  "author": "Frederick Fogerty",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^1.1.2"
+  }
+}
